@@ -1,4 +1,10 @@
 this is created on linux 1
 2nd line on windows
 3rd line on linx
+<<<<<<< HEAD
+checking checkout
+
+=======
 4 th in wind
+5 th line added in git hub
+>>>>>>> test
